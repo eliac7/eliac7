@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React.js,Redux, Node.js, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://iliasdev.eu/](https://iliasdev.eu/)
+- 👨‍💻 All of my projects are available at [https://iliasdev.com/](https://iliasdev.com/)
 
-- 💬 Ask me about **HTML,CSS (including frameworks),JavaScript,Python**
+- 💬 Ask me about **HTML,CSS (including frameworks),JavaScript (including frameworks),Python, PHP**
 
 - 📫 How to reach me **elias_thal@hotmail.com**
 
