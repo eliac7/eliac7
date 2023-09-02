@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ilias_thal" target="blank"><img src="https://img.shields.io/twitter/follow/ilias_thal?logo=twitter&style=for-the-badge" alt="ilias_thal" /></a> </p>
 
-- 🌱 I’m currently learning **React.js,Redux, Node.js, MongoDB**
+- 🌱 I’m currently learning **Next.js,Redux, Node.js, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://iliasdev.com/](https://iliasdev.com/)
 
