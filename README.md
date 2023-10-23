@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS (including frameworks), JavaScript (including frameworks), Python, PHP**
 
-- 📫 How to reach me **elias_thal@hotmail.com**
+- 📫 How to reach me **iliascodes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
