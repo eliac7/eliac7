@@ -30,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliac7&show_icons=true&locale=en&layout=compact" alt="eliac7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliac7&show_icons=true&locale=en" alt="eliac7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliac7&" alt="eliac7" /></p>
