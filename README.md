@@ -4,7 +4,7 @@
 <p align="center">
   <kbd>
   <a href="https://www.linkedin.com/in/ithalassochoritis/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://iliasdev.com" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-00CCB4?style=flat&logo=Google%20Chrome&logoColor=white" /></a>
+  <a href="https://ilias.dev" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-00CCB4?style=flat&logo=Google%20Chrome&logoColor=white" /></a>
   <a href="mailto:iliascodes@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   </kbd>
 </p>
@@ -72,5 +72,5 @@ Currently, I am **open to new opportunities** where I can apply my skills in bui
 </details>
 
 <p align="center">
-  <a href="https://iliasdev.com"><b>iliasdev.com</b></a>
+  <a href="https://ilias.dev"><b>ilias.dev</b></a>
 </p>
